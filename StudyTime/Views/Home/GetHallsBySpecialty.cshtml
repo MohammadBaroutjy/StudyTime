@@ -1,0 +1,48 @@
+﻿@model IEnumerable<HallModel>
+@{
+    int index = 1;
+}
+<h3 class=" text-center">قائمة القاعات</h3>
+<hr />
+<div class="bd-example">
+    @if (Model.Count() > 0)
+    {
+
+        <table class="table table-sm table-hover" dir="rtl">
+            <thead>
+                <tr>
+                    <th scope="col"></th>
+                    <th scope="col">القاعة</th>
+                    <th scope="col">المحاضرة</th>
+                    <th scope="col">اليوم</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <th scope="row"> @index </th>
+                        <td>
+                            ك @item.HallName
+                        </td>
+                        <td>
+                            @item.HallTime
+                        </td>
+                        <td>
+                            @item.Day
+                        </td>
+                    </tr>
+                    index++;
+                }
+
+            </tbody>
+        </table>
+    }
+    else
+    {
+        <div class="alert alert-danger text-center">
+            لا يوجد محاضرات
+        </div>
+    }
+</div>
+<a asp-action="Search" class="btn btn-danger">رجوع</a>

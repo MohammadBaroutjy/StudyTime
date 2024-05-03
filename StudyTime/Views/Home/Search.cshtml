@@ -1,0 +1,72 @@
+﻿@model IEnumerable<HallModel>
+@{
+    ViewData["Title"] = "Search";
+}
+<br>
+
+<dir class=" row justify-content-evenly m-auto p-0 g-2 align-content-lg-center">
+    <div class="col-sm-5 mb-4" >
+
+        <h3>البحث عن قاعات فارغة</h3>
+        <form asp-controller="home" asp-action="HallsEmpty" method="get" class="d-grid">
+            <label>
+                اليوم :
+            </label>
+                <select name="day" class="form-select  g-0">
+                    <option value="Sunday">الاحد</option>
+                    <option value="Monday">الاثنين</option>
+                    <option value="Tuesday">الثلاثاء</option>
+                    <option value="Wednesday">الأربعاء</option>
+                    <option value="Thursday">الخميس</option>
+                </select>
+            <label>
+                المحاضرة :
+            </label>
+                <select name="time" class="form-select g-1">
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                    <option value="6">6</option>
+                </select>
+            <br>
+            <input type="submit" class="btn btn-outline-success g-2" value="بحث"/>
+        </form>
+
+    </div>
+    <hr class="d-sm-none"/>
+    <div class="col-sm-5" >
+
+        <h3>عرض برنامج القاعات حسب الاختصاص </h3>
+        <form asp-controller="home" asp-action="GetHallsBySpecialty" method="get" class="d-grid">
+            <label>
+                الاختصاص :
+            </label>
+            <select name="specialty" class="form-select select-specialty">
+                <option value="Mechatronics">ميكاترونكس</option>
+                <option value="qudra">نظم قدرة</option>
+                <option value="tahakam">تحكم</option>
+                <option value="aitisalat">اتصالات</option>
+                <option value="qiada">قيادة</option>
+                <option value="electricity">الكترونية</option>
+                <option value="medical">طبية</option>
+                <option value="hawasib">حواسيب</option>
+                </select>
+                
+                <label>
+                السنة :
+            </label>
+            <select name="year" class="form-select select-year">
+                    <option value="1">اولى</option>
+                    <option value="2">ثانية</option>
+                    <option value="3">ثالثة</option>
+                    <option value="4">رابعة</option>
+                    <option value="5">خامسة</option>
+                </select>
+            <br>
+            <input type="submit" class="btn btn-outline-success " value="بحث" />
+        </form>
+    </div>
+
+</dir>

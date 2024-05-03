@@ -1,0 +1,6697 @@
+[
+  {
+    "HallName": 2,
+    "HallTime": 1,
+    "Day": "Sunday",
+    "Specialty": "Mechatronics1"
+  },
+  {
+    "HallName": 2,
+    "HallTime": 2,
+    "Day": "Sunday",
+    "Specialty": "Mechatronics1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Sunday",
+    "Specialty": "Mechatronics1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Sunday",
+    "Specialty": "Mechatronics1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Sunday",
+    "Specialty": "Mechatronics1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Sunday",
+    "Specialty": "Mechatronics1"
+  },
+  {
+    "HallName": 1,
+    "HallTime": 1,
+    "Day": "Monday",
+    "Specialty": "Mechatronics1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Monday",
+    "Specialty": "Mechatronics1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Monday",
+    "Specialty": "Mechatronics1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Monday",
+    "Specialty": "Mechatronics1"
+  },
+  {
+    "HallName": 10,
+    "HallTime": 5,
+    "Day": "Monday",
+    "Specialty": "Mechatronics1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Monday",
+    "Specialty": "Mechatronics1"
+  },
+  {
+    "HallName": 26,
+    "HallTime": 1,
+    "Day": "Tuesday",
+    "Specialty": "Mechatronics1"
+  },
+  {
+    "HallName": 1,
+    "HallTime": 2,
+    "Day": "Tuesday",
+    "Specialty": "Mechatronics1"
+  },
+  {
+    "HallName": 16,
+    "HallTime": 3,
+    "Day": "Tuesday",
+    "Specialty": "Mechatronics1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Tuesday",
+    "Specialty": "Mechatronics1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Tuesday",
+    "Specialty": "Mechatronics1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Tuesday",
+    "Specialty": "Mechatronics1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Wednesday",
+    "Specialty": "Mechatronics1"
+  },
+  {
+    "HallName": 23,
+    "HallTime": 2,
+    "Day": "Wednesday",
+    "Specialty": "Mechatronics1"
+  },
+  {
+    "HallName": 23,
+    "HallTime": 3,
+    "Day": "Wednesday",
+    "Specialty": "Mechatronics1"
+  },
+  {
+    "HallName": 13,
+    "HallTime": 4,
+    "Day": "Wednesday",
+    "Specialty": "Mechatronics1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Wednesday",
+    "Specialty": "Mechatronics1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Wednesday",
+    "Specialty": "Mechatronics1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Thursday",
+    "Specialty": "Mechatronics1"
+  },
+  {
+    "HallName": 1,
+    "HallTime": 2,
+    "Day": "Thursday",
+    "Specialty": "Mechatronics1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Thursday",
+    "Specialty": "Mechatronics1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Thursday",
+    "Specialty": "Mechatronics1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Thursday",
+    "Specialty": "Mechatronics1"
+  },
+  {
+    "HallName": 17,
+    "HallTime": 6,
+    "Day": "Thursday",
+    "Specialty": "Mechatronics1"
+  },
+  {
+    "HallName": 17,
+    "HallTime": 1,
+    "Day": "Sunday",
+    "Specialty": "Mechatronics2"
+  },
+  {
+    "HallName": 18,
+    "HallTime": 2,
+    "Day": "Sunday",
+    "Specialty": "Mechatronics2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Sunday",
+    "Specialty": "Mechatronics2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Sunday",
+    "Specialty": "Mechatronics2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Sunday",
+    "Specialty": "Mechatronics2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Sunday",
+    "Specialty": "Mechatronics2"
+  },
+  {
+    "HallName": 13,
+    "HallTime": 1,
+    "Day": "Monday",
+    "Specialty": "Mechatronics2"
+  },
+  {
+    "HallName": 22,
+    "HallTime": 2,
+    "Day": "Monday",
+    "Specialty": "Mechatronics2"
+  },
+  {
+    "HallName": 3,
+    "HallTime": 3,
+    "Day": "Monday",
+    "Specialty": "Mechatronics2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Monday",
+    "Specialty": "Mechatronics2"
+  },
+  {
+    "HallName": 18,
+    "HallTime": 5,
+    "Day": "Monday",
+    "Specialty": "Mechatronics2"
+  },
+  {
+    "HallName": 18,
+    "HallTime": 6,
+    "Day": "Monday",
+    "Specialty": "Mechatronics2"
+  },
+  {
+    "HallName": 15,
+    "HallTime": 1,
+    "Day": "Tuesday",
+    "Specialty": "Mechatronics2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Tuesday",
+    "Specialty": "Mechatronics2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Tuesday",
+    "Specialty": "Mechatronics2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Tuesday",
+    "Specialty": "Mechatronics2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Tuesday",
+    "Specialty": "Mechatronics2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Tuesday",
+    "Specialty": "Mechatronics2"
+  },
+  {
+    "HallName": 18,
+    "HallTime": 1,
+    "Day": "Wednesday",
+    "Specialty": "Mechatronics2"
+  },
+  {
+    "HallName": 18,
+    "HallTime": 2,
+    "Day": "Wednesday",
+    "Specialty": "Mechatronics2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Wednesday",
+    "Specialty": "Mechatronics2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Wednesday",
+    "Specialty": "Mechatronics2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Wednesday",
+    "Specialty": "Mechatronics2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Wednesday",
+    "Specialty": "Mechatronics2"
+  },
+  {
+    "HallName": 18,
+    "HallTime": 1,
+    "Day": "Thursday",
+    "Specialty": "Mechatronics2"
+  },
+  {
+    "HallName": 18,
+    "HallTime": 2,
+    "Day": "Thursday",
+    "Specialty": "Mechatronics2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Thursday",
+    "Specialty": "Mechatronics2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Thursday",
+    "Specialty": "Mechatronics2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Thursday",
+    "Specialty": "Mechatronics2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Thursday",
+    "Specialty": "Mechatronics2"
+  },
+
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Sunday",
+    "Specialty": "Mechatronics3"
+  },
+  {
+    "HallName": 24,
+    "HallTime": 2,
+    "Day": "Sunday",
+    "Specialty": "Mechatronics3"
+  },
+  {
+    "HallName": 20,
+    "HallTime": 3,
+    "Day": "Sunday",
+    "Specialty": "Mechatronics3"
+  },
+  {
+    "HallName": 20,
+    "HallTime": 4,
+    "Day": "Sunday",
+    "Specialty": "Mechatronics3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Sunday",
+    "Specialty": "Mechatronics3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Sunday",
+    "Specialty": "Mechatronics3"
+  },
+  {
+    "HallName": 23,
+    "HallTime": 1,
+    "Day": "Monday",
+    "Specialty": "Mechatronics3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Monday",
+    "Specialty": "Mechatronics3"
+  },
+  {
+    "HallName": 15,
+    "HallTime": 3,
+    "Day": "Monday",
+    "Specialty": "Mechatronics3"
+  },
+  {
+    "HallName": 15,
+    "HallTime": 4,
+    "Day": "Monday",
+    "Specialty": "Mechatronics3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Monday",
+    "Specialty": "Mechatronics3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Monday",
+    "Specialty": "Mechatronics3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Tuesday",
+    "Specialty": "Mechatronics3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Tuesday",
+    "Specialty": "Mechatronics3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Tuesday",
+    "Specialty": "Mechatronics3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Tuesday",
+    "Specialty": "Mechatronics3"
+  },
+  {
+    "HallName": 18,
+    "HallTime": 5,
+    "Day": "Tuesday",
+    "Specialty": "Mechatronics3"
+  },
+  {
+    "HallName": 18,
+    "HallTime": 6,
+    "Day": "Tuesday",
+    "Specialty": "Mechatronics3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Wednesday",
+    "Specialty": "Mechatronics3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Wednesday",
+    "Specialty": "Mechatronics3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Wednesday",
+    "Specialty": "Mechatronics3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Wednesday",
+    "Specialty": "Mechatronics3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Wednesday",
+    "Specialty": "Mechatronics3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Wednesday",
+    "Specialty": "Mechatronics3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Thursday",
+    "Specialty": "Mechatronics3"
+  },
+  {
+    "HallName": 3,
+    "HallTime": 2,
+    "Day": "Thursday",
+    "Specialty": "Mechatronics3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Thursday",
+    "Specialty": "Mechatronics3"
+  },
+  {
+    "HallName": 11,
+    "HallTime": 4,
+    "Day": "Thursday",
+    "Specialty": "Mechatronics3"
+  },
+  {
+    "HallName": 11,
+    "HallTime": 5,
+    "Day": "Thursday",
+    "Specialty": "Mechatronics3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Thursday",
+    "Specialty": "Mechatronics3"
+  },
+
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Sunday",
+    "Specialty": "Mechatronics4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Sunday",
+    "Specialty": "Mechatronics4"
+  },
+  {
+    "HallName": 17,
+    "HallTime": 3,
+    "Day": "Sunday",
+    "Specialty": "Mechatronics4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Sunday",
+    "Specialty": "Mechatronics4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Sunday",
+    "Specialty": "Mechatronics4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Sunday",
+    "Specialty": "Mechatronics4"
+  },
+  {
+    "HallName": 10,
+    "HallTime": 1,
+    "Day": "Monday",
+    "Specialty": "Mechatronics4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Monday",
+    "Specialty": "Mechatronics4"
+  },
+  {
+    "HallName": 24,
+    "HallTime": 3,
+    "Day": "Monday",
+    "Specialty": "Mechatronics4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Monday",
+    "Specialty": "Mechatronics4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Monday",
+    "Specialty": "Mechatronics4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Monday",
+    "Specialty": "Mechatronics4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Tuesday",
+    "Specialty": "Mechatronics4"
+  },
+  {
+    "HallName": 23,
+    "HallTime": 2,
+    "Day": "Tuesday",
+    "Specialty": "Mechatronics4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Tuesday",
+    "Specialty": "Mechatronics4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Tuesday",
+    "Specialty": "Mechatronics4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Tuesday",
+    "Specialty": "Mechatronics4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Tuesday",
+    "Specialty": "Mechatronics4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Wednesday",
+    "Specialty": "Mechatronics4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Wednesday",
+    "Specialty": "Mechatronics4"
+  },
+  {
+    "HallName": 3,
+    "HallTime": 3,
+    "Day": "Wednesday",
+    "Specialty": "Mechatronics4"
+  },
+  {
+    "HallName": 21,
+    "HallTime": 4,
+    "Day": "Wednesday",
+    "Specialty": "Mechatronics4"
+  },
+  {
+    "HallName": 21,
+    "HallTime": 5,
+    "Day": "Wednesday",
+    "Specialty": "Mechatronics4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Wednesday",
+    "Specialty": "Mechatronics4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Thursday",
+    "Specialty": "Mechatronics4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Thursday",
+    "Specialty": "Mechatronics4"
+  },
+  {
+    "HallName": 10,
+    "HallTime": 3,
+    "Day": "Thursday",
+    "Specialty": "Mechatronics4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Thursday",
+    "Specialty": "Mechatronics4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Thursday",
+    "Specialty": "Mechatronics4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Thursday",
+    "Specialty": "Mechatronics4"
+  },
+
+  {
+    "HallName": 3,
+    "HallTime": 1,
+    "Day": "Sunday",
+    "Specialty": "Mechatronics5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Sunday",
+    "Specialty": "Mechatronics5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Sunday",
+    "Specialty": "Mechatronics5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Sunday",
+    "Specialty": "Mechatronics5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Sunday",
+    "Specialty": "Mechatronics5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Sunday",
+    "Specialty": "Mechatronics5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Monday",
+    "Specialty": "Mechatronics5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Monday",
+    "Specialty": "Mechatronics5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Monday",
+    "Specialty": "Mechatronics5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Monday",
+    "Specialty": "Mechatronics5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Monday",
+    "Specialty": "Mechatronics5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Monday",
+    "Specialty": "Mechatronics5"
+  },
+  {
+    "HallName": 24,
+    "HallTime": 1,
+    "Day": "Tuesday",
+    "Specialty": "Mechatronics5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Tuesday",
+    "Specialty": "Mechatronics5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Tuesday",
+    "Specialty": "Mechatronics5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Tuesday",
+    "Specialty": "Mechatronics5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Tuesday",
+    "Specialty": "Mechatronics5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Tuesday",
+    "Specialty": "Mechatronics5"
+  },
+  {
+    "HallName": 24,
+    "HallTime": 1,
+    "Day": "Wednesday",
+    "Specialty": "Mechatronics5"
+  },
+  {
+    "HallName": 24,
+    "HallTime": 2,
+    "Day": "Wednesday",
+    "Specialty": "Mechatronics5"
+  },
+  {
+    "HallName": 2,
+    "HallTime": 3,
+    "Day": "Wednesday",
+    "Specialty": "Mechatronics5"
+  },
+  {
+    "HallName": 26,
+    "HallTime": 4,
+    "Day": "Wednesday",
+    "Specialty": "Mechatronics5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Wednesday",
+    "Specialty": "Mechatronics5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Wednesday",
+    "Specialty": "Mechatronics5"
+  },
+  {
+    "HallName": 11,
+    "HallTime": 1,
+    "Day": "Thursday",
+    "Specialty": "Mechatronics5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Thursday",
+    "Specialty": "Mechatronics5"
+  },
+  {
+    "HallName": 24,
+    "HallTime": 3,
+    "Day": "Thursday",
+    "Specialty": "Mechatronics5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Thursday",
+    "Specialty": "Mechatronics5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Thursday",
+    "Specialty": "Mechatronics5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Thursday",
+    "Specialty": "Mechatronics5"
+  },
+
+  {
+    "HallName": 25,
+    "HallTime": 1,
+    "Day": "Sunday",
+    "Specialty": "qudra1"
+  },
+  {
+    "HallName": 20,
+    "HallTime": 2,
+    "Day": "Sunday",
+    "Specialty": "qudra1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Sunday",
+    "Specialty": "qudra1"
+  },
+  {
+    "HallName": 15,
+    "HallTime": 4,
+    "Day": "Sunday",
+    "Specialty": "qudra1"
+  },
+  {
+    "HallName": 1,
+    "HallTime": 5,
+    "Day": "Sunday",
+    "Specialty": "qudra1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Sunday",
+    "Specialty": "qudra1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Monday",
+    "Specialty": "qudra1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Monday",
+    "Specialty": "qudra1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Monday",
+    "Specialty": "qudra1"
+  },
+  {
+    "HallName": 22,
+    "HallTime": 4,
+    "Day": "Monday",
+    "Specialty": "qudra1"
+  },
+  {
+    "HallName": 1,
+    "HallTime": 5,
+    "Day": "Monday",
+    "Specialty": "qudra1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Monday",
+    "Specialty": "qudra1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Tuesday",
+    "Specialty": "qudra1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Tuesday",
+    "Specialty": "qudra1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Tuesday",
+    "Specialty": "qudra1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Tuesday",
+    "Specialty": "qudra1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Tuesday",
+    "Specialty": "qudra1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Tuesday",
+    "Specialty": "qudra1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Wednesday",
+    "Specialty": "qudra1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Wednesday",
+    "Specialty": "qudra1"
+  },
+  {
+    "HallName": 25,
+    "HallTime": 3,
+    "Day": "Wednesday",
+    "Specialty": "qudra1"
+  },
+  {
+    "HallName": 25,
+    "HallTime": 4,
+    "Day": "Wednesday",
+    "Specialty": "qudra1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Wednesday",
+    "Specialty": "qudra1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Wednesday",
+    "Specialty": "qudra1"
+  },
+  {
+    "HallName": 25,
+    "HallTime": 1,
+    "Day": "Thursday",
+    "Specialty": "qudra1"
+  },
+  {
+    "HallName": 25,
+    "HallTime": 2,
+    "Day": "Thursday",
+    "Specialty": "qudra1"
+  },
+  {
+    "HallName": 13,
+    "HallTime": 3,
+    "Day": "Thursday",
+    "Specialty": "qudra1"
+  },
+  {
+    "HallName": 13,
+    "HallTime": 4,
+    "Day": "Thursday",
+    "Specialty": "qudra1"
+  },
+  {
+    "HallName": 13,
+    "HallTime": 5,
+    "Day": "Thursday",
+    "Specialty": "qudra1"
+  },
+  {
+    "HallName": 17,
+    "HallTime": 6,
+    "Day": "Thursday",
+    "Specialty": "qudra1"
+  },
+
+  {
+    "HallName": 15,
+    "HallTime": 1,
+    "Day": "Sunday",
+    "Specialty": "qudra2"
+  },
+  {
+    "HallName": 22,
+    "HallTime": 2,
+    "Day": "Sunday",
+    "Specialty": "qudra2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Sunday",
+    "Specialty": "qudra2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Sunday",
+    "Specialty": "qudra2"
+  },
+  {
+    "HallName": 2,
+    "HallTime": 5,
+    "Day": "Sunday",
+    "Specialty": "qudra2"
+  },
+  {
+    "HallName": 17,
+    "HallTime": 6,
+    "Day": "Sunday",
+    "Specialty": "qudra2"
+  },
+  {
+    "HallName": 17,
+    "HallTime": 1,
+    "Day": "Monday",
+    "Specialty": "qudra2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Monday",
+    "Specialty": "qudra2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Monday",
+    "Specialty": "qudra2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Monday",
+    "Specialty": "qudra2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Monday",
+    "Specialty": "qudra2"
+  },
+  {
+    "HallName": 16,
+    "HallTime": 6,
+    "Day": "Monday",
+    "Specialty": "qudra2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Tuesday",
+    "Specialty": "qudra2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Tuesday",
+    "Specialty": "qudra2"
+  },
+  {
+    "HallName": 20,
+    "HallTime": 3,
+    "Day": "Tuesday",
+    "Specialty": "qudra2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Tuesday",
+    "Specialty": "qudra2"
+  },
+  {
+    "HallName": 13,
+    "HallTime": 5,
+    "Day": "Tuesday",
+    "Specialty": "qudra2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Tuesday",
+    "Specialty": "qudra2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Wednesday",
+    "Specialty": "qudra2"
+  },
+  {
+    "HallName": 17,
+    "HallTime": 2,
+    "Day": "Wednesday",
+    "Specialty": "qudra2"
+  },
+  {
+    "HallName": 17,
+    "HallTime": 3,
+    "Day": "Wednesday",
+    "Specialty": "qudra2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Wednesday",
+    "Specialty": "qudra2"
+  },
+  {
+    "HallName": 15,
+    "HallTime": 5,
+    "Day": "Wednesday",
+    "Specialty": "qudra2"
+  },
+  {
+    "HallName": 15,
+    "HallTime": 6,
+    "Day": "Wednesday",
+    "Specialty": "qudra2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Thursday",
+    "Specialty": "qudra2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Thursday",
+    "Specialty": "qudra2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Thursday",
+    "Specialty": "qudra2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Thursday",
+    "Specialty": "qudra2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Thursday",
+    "Specialty": "qudra2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Thursday",
+    "Specialty": "qudra2"
+  },
+
+  {
+    "HallName": 16,
+    "HallTime": 1,
+    "Day": "Sunday",
+    "Specialty": "qudra3"
+  },
+  {
+    "HallName": 3,
+    "HallTime": 2,
+    "Day": "Sunday",
+    "Specialty": "qudra3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Sunday",
+    "Specialty": "qudra3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Sunday",
+    "Specialty": "qudra3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Sunday",
+    "Specialty": "qudra3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Sunday",
+    "Specialty": "qudra3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Monday",
+    "Specialty": "qudra3"
+  },
+  {
+    "HallName": 16,
+    "HallTime": 2,
+    "Day": "Monday",
+    "Specialty": "qudra3"
+  },
+  {
+    "HallName": 16,
+    "HallTime": 3,
+    "Day": "Monday",
+    "Specialty": "qudra3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Monday",
+    "Specialty": "qudra3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Monday",
+    "Specialty": "qudra3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Monday",
+    "Specialty": "qudra3"
+  },
+  {
+    "HallName": 21,
+    "HallTime": 1,
+    "Day": "Tuesday",
+    "Specialty": "qudra3"
+  },
+  {
+    "HallName": 21,
+    "HallTime": 2,
+    "Day": "Tuesday",
+    "Specialty": "qudra3"
+  },
+  {
+    "HallName": 24,
+    "HallTime": 3,
+    "Day": "Tuesday",
+    "Specialty": "qudra3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Tuesday",
+    "Specialty": "qudra3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Tuesday",
+    "Specialty": "qudra3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Tuesday",
+    "Specialty": "qudra3"
+  },
+  {
+    "HallName": 23,
+    "HallTime": 1,
+    "Day": "Wednesday",
+    "Specialty": "qudra3"
+  },
+  {
+    "HallName": 3,
+    "HallTime": 2,
+    "Day": "Wednesday",
+    "Specialty": "qudra3"
+  },
+  {
+    "HallName": 16,
+    "HallTime": 3,
+    "Day": "Wednesday",
+    "Specialty": "qudra3"
+  },
+  {
+    "HallName": 16,
+    "HallTime": 4,
+    "Day": "Wednesday",
+    "Specialty": "qudra3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Wednesday",
+    "Specialty": "qudra3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Wednesday",
+    "Specialty": "qudra3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Thursday",
+    "Specialty": "qudra3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Thursday",
+    "Specialty": "qudra3"
+  },
+  {
+    "HallName": 23,
+    "HallTime": 3,
+    "Day": "Thursday",
+    "Specialty": "qudra3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Thursday",
+    "Specialty": "qudra3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Thursday",
+    "Specialty": "qudra3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Thursday",
+    "Specialty": "qudra3"
+  },
+
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Sunday",
+    "Specialty": "qudra4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Sunday",
+    "Specialty": "qudra4"
+  },
+  {
+    "HallName": 17,
+    "HallTime": 3,
+    "Day": "Sunday",
+    "Specialty": "qudra4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Sunday",
+    "Specialty": "qudra4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Sunday",
+    "Specialty": "qudra4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Sunday",
+    "Specialty": "qudra4"
+  },
+  {
+    "HallName": 10,
+    "HallTime": 1,
+    "Day": "Monday",
+    "Specialty": "qudra4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Monday",
+    "Specialty": "qudra4"
+  },
+  {
+    "HallName": 24,
+    "HallTime": 3,
+    "Day": "Monday",
+    "Specialty": "qudra4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Monday",
+    "Specialty": "qudra4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Monday",
+    "Specialty": "qudra4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Monday",
+    "Specialty": "qudra4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Tuesday",
+    "Specialty": "qudra4"
+  },
+  {
+    "HallName": 23,
+    "HallTime": 2,
+    "Day": "Tuesday",
+    "Specialty": "qudra4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Tuesday",
+    "Specialty": "qudra4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Tuesday",
+    "Specialty": "qudra4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Tuesday",
+    "Specialty": "qudra4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Tuesday",
+    "Specialty": "qudra4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Wednesday",
+    "Specialty": "qudra4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Wednesday",
+    "Specialty": "qudra4"
+  },
+  {
+    "HallName": 3,
+    "HallTime": 3,
+    "Day": "Wednesday",
+    "Specialty": "qudra4"
+  },
+  {
+    "HallName": 21,
+    "HallTime": 4,
+    "Day": "Wednesday",
+    "Specialty": "qudra4"
+  },
+  {
+    "HallName": 21,
+    "HallTime": 5,
+    "Day": "Wednesday",
+    "Specialty": "qudra4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Wednesday",
+    "Specialty": "qudra4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Thursday",
+    "Specialty": "qudra4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Thursday",
+    "Specialty": "qudra4"
+  },
+  {
+    "HallName": 10,
+    "HallTime": 3,
+    "Day": "Thursday",
+    "Specialty": "qudra4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Thursday",
+    "Specialty": "qudra4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Thursday",
+    "Specialty": "qudra4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Thursday",
+    "Specialty": "qudra4"
+  },
+
+  {
+    "HallName": 3,
+    "HallTime": 1,
+    "Day": "Sunday",
+    "Specialty": "qudra5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Sunday",
+    "Specialty": "qudra5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Sunday",
+    "Specialty": "qudra5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Sunday",
+    "Specialty": "qudra5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Sunday",
+    "Specialty": "qudra5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Sunday",
+    "Specialty": "qudra5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Monday",
+    "Specialty": "qudra5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Monday",
+    "Specialty": "qudra5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Monday",
+    "Specialty": "qudra5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Monday",
+    "Specialty": "qudra5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Monday",
+    "Specialty": "qudra5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Monday",
+    "Specialty": "qudra5"
+  },
+  {
+    "HallName": 24,
+    "HallTime": 1,
+    "Day": "Tuesday",
+    "Specialty": "qudra5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Tuesday",
+    "Specialty": "qudra5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Tuesday",
+    "Specialty": "qudra5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Tuesday",
+    "Specialty": "qudra5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Tuesday",
+    "Specialty": "qudra5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Tuesday",
+    "Specialty": "qudra5"
+  },
+  {
+    "HallName": 24,
+    "HallTime": 1,
+    "Day": "Wednesday",
+    "Specialty": "qudra5"
+  },
+  {
+    "HallName": 24,
+    "HallTime": 2,
+    "Day": "Wednesday",
+    "Specialty": "qudra5"
+  },
+  {
+    "HallName": 2,
+    "HallTime": 3,
+    "Day": "Wednesday",
+    "Specialty": "qudra5"
+  },
+  {
+    "HallName": 26,
+    "HallTime": 4,
+    "Day": "Wednesday",
+    "Specialty": "qudra5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Wednesday",
+    "Specialty": "qudra5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Wednesday",
+    "Specialty": "qudra5"
+  },
+  {
+    "HallName": 11,
+    "HallTime": 1,
+    "Day": "Thursday",
+    "Specialty": "qudra5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Thursday",
+    "Specialty": "qudra5"
+  },
+  {
+    "HallName": 24,
+    "HallTime": 3,
+    "Day": "Thursday",
+    "Specialty": "qudra5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Thursday",
+    "Specialty": "qudra5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Thursday",
+    "Specialty": "qudra5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Thursday",
+    "Specialty": "qudra5"
+  },
+
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Sunday",
+    "Specialty": "tahakam1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Sunday",
+    "Specialty": "tahakam1"
+  },
+  {
+    "HallName": 1,
+    "HallTime": 3,
+    "Day": "Sunday",
+    "Specialty": "tahakam1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Sunday",
+    "Specialty": "tahakam1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Sunday",
+    "Specialty": "tahakam1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Sunday",
+    "Specialty": "tahakam1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Monday",
+    "Specialty": "tahakam1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Monday",
+    "Specialty": "tahakam1"
+  },
+  {
+    "HallName": 1,
+    "HallTime": 3,
+    "Day": "Monday",
+    "Specialty": "tahakam1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Monday",
+    "Specialty": "tahakam1"
+  },
+  {
+    "HallName": 10,
+    "HallTime": 5,
+    "Day": "Monday",
+    "Specialty": "tahakam1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Monday",
+    "Specialty": "tahakam1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Tuesday",
+    "Specialty": "tahakam1"
+  },
+  {
+    "HallName": 25,
+    "HallTime": 2,
+    "Day": "Tuesday",
+    "Specialty": "tahakam1"
+  },
+  {
+    "HallName": 25,
+    "HallTime": 3,
+    "Day": "Tuesday",
+    "Specialty": "tahakam1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Tuesday",
+    "Specialty": "tahakam1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Tuesday",
+    "Specialty": "tahakam1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Tuesday",
+    "Specialty": "tahakam1"
+  },
+  {
+    "HallName": 1,
+    "HallTime": 1,
+    "Day": "Wednesday",
+    "Specialty": "tahakam1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Wednesday",
+    "Specialty": "tahakam1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Wednesday",
+    "Specialty": "tahakam1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Wednesday",
+    "Specialty": "tahakam1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Wednesday",
+    "Specialty": "tahakam1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Wednesday",
+    "Specialty": "tahakam1"
+  },
+  {
+    "HallName": 1,
+    "HallTime": 1,
+    "Day": "Thursday",
+    "Specialty": "tahakam1"
+  },
+  {
+    "HallName": 2,
+    "HallTime": 2,
+    "Day": "Thursday",
+    "Specialty": "tahakam1"
+  },
+  {
+    "HallName": 12,
+    "HallTime": 3,
+    "Day": "Thursday",
+    "Specialty": "tahakam1"
+  },
+  {
+    "HallName": 12,
+    "HallTime": 4,
+    "Day": "Thursday",
+    "Specialty": "tahakam1"
+  },
+  {
+    "HallName": 16,
+    "HallTime": 5,
+    "Day": "Thursday",
+    "Specialty": "tahakam1"
+  },
+  {
+    "HallName": 16,
+    "HallTime": 6,
+    "Day": "Thursday",
+    "Specialty": "tahakam1"
+  },
+
+  {
+    "HallName": 12,
+    "HallTime": 1,
+    "Day": "Sunday",
+    "Specialty": "tahakam2"
+  },
+  {
+    "HallName": 13,
+    "HallTime": 2,
+    "Day": "Sunday",
+    "Specialty": "tahakam2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Sunday",
+    "Specialty": "tahakam2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Sunday",
+    "Specialty": "tahakam2"
+  },
+  {
+    "HallName": 17,
+    "HallTime": 5,
+    "Day": "Sunday",
+    "Specialty": "tahakam2"
+  },
+  {
+    "HallName": 17,
+    "HallTime": 6,
+    "Day": "Sunday",
+    "Specialty": "tahakam2"
+  },
+  {
+    "HallName": 3,
+    "HallTime": 1,
+    "Day": "Monday",
+    "Specialty": "tahakam2"
+  },
+  {
+    "HallName": 21,
+    "HallTime": 2,
+    "Day": "Monday",
+    "Specialty": "tahakam2"
+  },
+  {
+    "HallName": 20,
+    "HallTime": 3,
+    "Day": "Monday",
+    "Specialty": "tahakam2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Monday",
+    "Specialty": "tahakam2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Monday",
+    "Specialty": "tahakam2"
+  },
+  {
+    "HallName": 10,
+    "HallTime": 6,
+    "Day": "Monday",
+    "Specialty": "tahakam2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Tuesday",
+    "Specialty": "tahakam2"
+  },
+  {
+    "HallName": 15,
+    "HallTime": 2,
+    "Day": "Tuesday",
+    "Specialty": "tahakam2"
+  },
+  {
+    "HallName": 13,
+    "HallTime": 3,
+    "Day": "Tuesday",
+    "Specialty": "tahakam2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Tuesday",
+    "Specialty": "tahakam2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Tuesday",
+    "Specialty": "tahakam2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Tuesday",
+    "Specialty": "tahakam2"
+  },
+  {
+    "HallName": 26,
+    "HallTime": 1,
+    "Day": "Wednesday",
+    "Specialty": "tahakam2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Wednesday",
+    "Specialty": "tahakam2"
+  },
+  {
+    "HallName": 2,
+    "HallTime": 3,
+    "Day": "Wednesday",
+    "Specialty": "tahakam2"
+  },
+  {
+    "HallName": 26,
+    "HallTime": 4,
+    "Day": "Wednesday",
+    "Specialty": "tahakam2"
+  },
+  {
+    "HallName": 16,
+    "HallTime": 5,
+    "Day": "Wednesday",
+    "Specialty": "tahakam2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Wednesday",
+    "Specialty": "tahakam2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Thursday",
+    "Specialty": "tahakam2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Thursday",
+    "Specialty": "tahakam2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Thursday",
+    "Specialty": "tahakam2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Thursday",
+    "Specialty": "tahakam2"
+  },
+  {
+    "HallName": 18,
+    "HallTime": 5,
+    "Day": "Thursday",
+    "Specialty": "tahakam2"
+  },
+  {
+    "HallName": 18,
+    "HallTime": 6,
+    "Day": "Thursday",
+    "Specialty": "tahakam2"
+  },
+
+  {
+    "HallName": 22,
+    "HallTime": 1,
+    "Day": "Sunday",
+    "Specialty": "tahakam3"
+  },
+  {
+    "HallName": 10,
+    "HallTime": 2,
+    "Day": "Sunday",
+    "Specialty": "tahakam3"
+  },
+  {
+    "HallName": 10,
+    "HallTime": 3,
+    "Day": "Sunday",
+    "Specialty": "tahakam3"
+  },
+  {
+    "HallName": 10,
+    "HallTime": 4,
+    "Day": "Sunday",
+    "Specialty": "tahakam3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Sunday",
+    "Specialty": "tahakam3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Sunday",
+    "Specialty": "tahakam3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Monday",
+    "Specialty": "tahakam3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Monday",
+    "Specialty": "tahakam3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Monday",
+    "Specialty": "tahakam3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Monday",
+    "Specialty": "tahakam3"
+  },
+  {
+    "HallName": 15,
+    "HallTime": 5,
+    "Day": "Monday",
+    "Specialty": "tahakam3"
+  },
+  {
+    "HallName": 15,
+    "HallTime": 6,
+    "Day": "Monday",
+    "Specialty": "tahakam3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Tuesday",
+    "Specialty": "tahakam3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Tuesday",
+    "Specialty": "tahakam3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Tuesday",
+    "Specialty": "tahakam3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Tuesday",
+    "Specialty": "tahakam3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Tuesday",
+    "Specialty": "tahakam3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Tuesday",
+    "Specialty": "tahakam3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Wednesday",
+    "Specialty": "tahakam3"
+  },
+  {
+    "HallName": 20,
+    "HallTime": 2,
+    "Day": "Wednesday",
+    "Specialty": "tahakam3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Wednesday",
+    "Specialty": "tahakam3"
+  },
+  {
+    "HallName": 10,
+    "HallTime": 4,
+    "Day": "Wednesday",
+    "Specialty": "tahakam3"
+  },
+  {
+    "HallName": 10,
+    "HallTime": 5,
+    "Day": "Wednesday",
+    "Specialty": "tahakam3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Wednesday",
+    "Specialty": "tahakam3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Thursday",
+    "Specialty": "tahakam3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Thursday",
+    "Specialty": "tahakam3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Thursday",
+    "Specialty": "tahakam3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Thursday",
+    "Specialty": "tahakam3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Thursday",
+    "Specialty": "tahakam3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Thursday",
+    "Specialty": "tahakam3"
+  },
+
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Sunday",
+    "Specialty": "tahakam4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Sunday",
+    "Specialty": "tahakam4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Sunday",
+    "Specialty": "tahakam4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Sunday",
+    "Specialty": "tahakam4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Sunday",
+    "Specialty": "tahakam4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Sunday",
+    "Specialty": "tahakam4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Monday",
+    "Specialty": "tahakam4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Monday",
+    "Specialty": "tahakam4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Monday",
+    "Specialty": "tahakam4"
+  },
+  {
+    "HallName": 23,
+    "HallTime": 4,
+    "Day": "Monday",
+    "Specialty": "tahakam4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Monday",
+    "Specialty": "tahakam4"
+  },
+  {
+    "HallName": 21,
+    "HallTime": 6,
+    "Day": "Monday",
+    "Specialty": "tahakam4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Tuesday",
+    "Specialty": "tahakam4"
+  },
+  {
+    "HallName": 10,
+    "HallTime": 2,
+    "Day": "Tuesday",
+    "Specialty": "tahakam4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Tuesday",
+    "Specialty": "tahakam4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Tuesday",
+    "Specialty": "tahakam4"
+  },
+  {
+    "HallName": 24,
+    "HallTime": 5,
+    "Day": "Tuesday",
+    "Specialty": "tahakam4"
+  },
+  {
+    "HallName": 24,
+    "HallTime": 6,
+    "Day": "Tuesday",
+    "Specialty": "tahakam4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Wednesday",
+    "Specialty": "tahakam4"
+  },
+  {
+    "HallName": 15,
+    "HallTime": 2,
+    "Day": "Wednesday",
+    "Specialty": "tahakam4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Wednesday",
+    "Specialty": "tahakam4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Wednesday",
+    "Specialty": "tahakam4"
+  },
+  {
+    "HallName": 3,
+    "HallTime": 5,
+    "Day": "Wednesday",
+    "Specialty": "tahakam4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Wednesday",
+    "Specialty": "tahakam4"
+  },
+  {
+    "HallName": 24,
+    "HallTime": 1,
+    "Day": "Thursday",
+    "Specialty": "tahakam4"
+  },
+  {
+    "HallName": 24,
+    "HallTime": 2,
+    "Day": "Thursday",
+    "Specialty": "tahakam4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Thursday",
+    "Specialty": "tahakam4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Thursday",
+    "Specialty": "tahakam4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Thursday",
+    "Specialty": "tahakam4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Thursday",
+    "Specialty": "tahakam4"
+  },
+
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Sunday",
+    "Specialty": "tahakam5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Sunday",
+    "Specialty": "tahakam5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Sunday",
+    "Specialty": "tahakam5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Sunday",
+    "Specialty": "tahakam5"
+  },
+  {
+    "HallName": 11,
+    "HallTime": 5,
+    "Day": "Sunday",
+    "Specialty": "tahakam5"
+  },
+  {
+    "HallName": 11,
+    "HallTime": 6,
+    "Day": "Sunday",
+    "Specialty": "tahakam5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Monday",
+    "Specialty": "tahakam5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Monday",
+    "Specialty": "tahakam5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Monday",
+    "Specialty": "tahakam5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Monday",
+    "Specialty": "tahakam5"
+  },
+  {
+    "HallName": 3,
+    "HallTime": 5,
+    "Day": "Monday",
+    "Specialty": "tahakam5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Monday",
+    "Specialty": "tahakam5"
+  },
+  {
+    "HallName": 10,
+    "HallTime": 1,
+    "Day": "Tuesday",
+    "Specialty": "tahakam5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Tuesday",
+    "Specialty": "tahakam5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Tuesday",
+    "Specialty": "tahakam5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Tuesday",
+    "Specialty": "tahakam5"
+  },
+  {
+    "HallName": 11,
+    "HallTime": 5,
+    "Day": "Tuesday",
+    "Specialty": "tahakam5"
+  },
+  {
+    "HallName": 11,
+    "HallTime": 6,
+    "Day": "Tuesday",
+    "Specialty": "tahakam5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Wednesday",
+    "Specialty": "tahakam5"
+  },
+  {
+    "HallName": 21,
+    "HallTime": 2,
+    "Day": "Wednesday",
+    "Specialty": "tahakam5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Wednesday",
+    "Specialty": "tahakam5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Wednesday",
+    "Specialty": "tahakam5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Wednesday",
+    "Specialty": "tahakam5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Wednesday",
+    "Specialty": "tahakam5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Thursday",
+    "Specialty": "tahakam5"
+  },
+  {
+    "HallName": 11,
+    "HallTime": 2,
+    "Day": "Thursday",
+    "Specialty": "tahakam5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Thursday",
+    "Specialty": "tahakam5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Thursday",
+    "Specialty": "tahakam5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Thursday",
+    "Specialty": "tahakam5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Thursday",
+    "Specialty": "tahakam5"
+  },
+
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Sunday",
+    "Specialty": "aitisalat1"
+  },
+  {
+    "HallName": 15,
+    "HallTime": 2,
+    "Day": "Sunday",
+    "Specialty": "aitisalat1"
+  },
+  {
+    "HallName": 2,
+    "HallTime": 3,
+    "Day": "Sunday",
+    "Specialty": "aitisalat1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Sunday",
+    "Specialty": "aitisalat1"
+  },
+  {
+    "HallName": 12,
+    "HallTime": 5,
+    "Day": "Sunday",
+    "Specialty": "aitisalat1"
+  },
+  {
+    "HallName": 12,
+    "HallTime": 6,
+    "Day": "Sunday",
+    "Specialty": "aitisalat1"
+  },
+  {
+    "HallName": 26,
+    "HallTime": 1,
+    "Day": "Monday",
+    "Specialty": "aitisalat1"
+  },
+  {
+    "HallName": 26,
+    "HallTime": 2,
+    "Day": "Monday",
+    "Specialty": "aitisalat1"
+  },
+  {
+    "HallName": 26,
+    "HallTime": 3,
+    "Day": "Monday",
+    "Specialty": "aitisalat1"
+  },
+  {
+    "HallName": 12,
+    "HallTime": 4,
+    "Day": "Monday",
+    "Specialty": "aitisalat1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Monday",
+    "Specialty": "aitisalat1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Monday",
+    "Specialty": "aitisalat1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Tuesday",
+    "Specialty": "aitisalat1"
+  },
+  {
+    "HallName": 26,
+    "HallTime": 2,
+    "Day": "Tuesday",
+    "Specialty": "aitisalat1"
+  },
+  {
+    "HallName": 26,
+    "HallTime": 3,
+    "Day": "Tuesday",
+    "Specialty": "aitisalat1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Tuesday",
+    "Specialty": "aitisalat1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Tuesday",
+    "Specialty": "aitisalat1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Tuesday",
+    "Specialty": "aitisalat1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Wednesday",
+    "Specialty": "aitisalat1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Wednesday",
+    "Specialty": "aitisalat1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Wednesday",
+    "Specialty": "aitisalat1"
+  },
+  {
+    "HallName": 17,
+    "HallTime": 4,
+    "Day": "Wednesday",
+    "Specialty": "aitisalat1"
+  },
+  {
+    "HallName": 17,
+    "HallTime": 5,
+    "Day": "Wednesday",
+    "Specialty": "aitisalat1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Wednesday",
+    "Specialty": "aitisalat1"
+  },
+  {
+    "HallName": 2,
+    "HallTime": 1,
+    "Day": "Thursday",
+    "Specialty": "aitisalat1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Thursday",
+    "Specialty": "aitisalat1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Thursday",
+    "Specialty": "aitisalat1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Thursday",
+    "Specialty": "aitisalat1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Thursday",
+    "Specialty": "aitisalat1"
+  },
+  {
+    "HallName": 17,
+    "HallTime": 6,
+    "Day": "Thursday",
+    "Specialty": "aitisalat1"
+  },
+
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Sunday",
+    "Specialty": "aitisalat2"
+  },
+  {
+    "HallName": 1,
+    "HallTime": 2,
+    "Day": "Sunday",
+    "Specialty": "aitisalat2"
+  },
+  {
+    "HallName": 23,
+    "HallTime": 3,
+    "Day": "Sunday",
+    "Specialty": "aitisalat2"
+  },
+  {
+    "HallName": 13,
+    "HallTime": 4,
+    "Day": "Sunday",
+    "Specialty": "aitisalat2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Sunday",
+    "Specialty": "aitisalat2"
+  },
+  {
+    "HallName": 17,
+    "HallTime": 6,
+    "Day": "Sunday",
+    "Specialty": "aitisalat2"
+  },
+  {
+    "HallName": 21,
+    "HallTime": 1,
+    "Day": "Monday",
+    "Specialty": "aitisalat2"
+  },
+  {
+    "HallName": 20,
+    "HallTime": 2,
+    "Day": "Monday",
+    "Specialty": "aitisalat2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Monday",
+    "Specialty": "aitisalat2"
+  },
+  {
+    "HallName": 13,
+    "HallTime": 4,
+    "Day": "Monday",
+    "Specialty": "aitisalat2"
+  },
+  {
+    "HallName": 13,
+    "HallTime": 5,
+    "Day": "Monday",
+    "Specialty": "aitisalat2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Monday",
+    "Specialty": "aitisalat2"
+  },
+  {
+    "HallName": 25,
+    "HallTime": 1,
+    "Day": "Tuesday",
+    "Specialty": "aitisalat2"
+  },
+  {
+    "HallName": 13,
+    "HallTime": 2,
+    "Day": "Tuesday",
+    "Specialty": "aitisalat2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Tuesday",
+    "Specialty": "aitisalat2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Tuesday",
+    "Specialty": "aitisalat2"
+  },
+  {
+    "HallName": 16,
+    "HallTime": 5,
+    "Day": "Tuesday",
+    "Specialty": "aitisalat2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Tuesday",
+    "Specialty": "aitisalat2"
+  },
+  {
+    "HallName": 1,
+    "HallTime": 1,
+    "Day": "Wednesday",
+    "Specialty": "aitisalat2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Wednesday",
+    "Specialty": "aitisalat2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Wednesday",
+    "Specialty": "aitisalat2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Wednesday",
+    "Specialty": "aitisalat2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Wednesday",
+    "Specialty": "aitisalat2"
+  },
+  {
+    "HallName": 13,
+    "HallTime": 6,
+    "Day": "Wednesday",
+    "Specialty": "aitisalat2"
+  },
+  {
+    "HallName": 23,
+    "HallTime": 1,
+    "Day": "Thursday",
+    "Specialty": "aitisalat2"
+  },
+  {
+    "HallName": 20,
+    "HallTime": 2,
+    "Day": "Thursday",
+    "Specialty": "aitisalat2"
+  },
+  {
+    "HallName": 20,
+    "HallTime": 3,
+    "Day": "Thursday",
+    "Specialty": "aitisalat2"
+  },
+  {
+    "HallName": 16,
+    "HallTime": 4,
+    "Day": "Thursday",
+    "Specialty": "aitisalat2"
+  },
+  {
+    "HallName": 17,
+    "HallTime": 5,
+    "Day": "Thursday",
+    "Specialty": "aitisalat2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Thursday",
+    "Specialty": "aitisalat2"
+  },
+
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Sunday",
+    "Specialty": "aitisalat3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Sunday",
+    "Specialty": "aitisalat3"
+  },
+  {
+    "HallName": 15,
+    "HallTime": 3,
+    "Day": "Sunday",
+    "Specialty": "aitisalat3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Sunday",
+    "Specialty": "aitisalat3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Sunday",
+    "Specialty": "aitisalat3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Sunday",
+    "Specialty": "aitisalat3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Monday",
+    "Specialty": "aitisalat3"
+  },
+  {
+    "HallName": 15,
+    "HallTime": 2,
+    "Day": "Monday",
+    "Specialty": "aitisalat3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Monday",
+    "Specialty": "aitisalat3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Monday",
+    "Specialty": "aitisalat3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Monday",
+    "Specialty": "aitisalat3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Monday",
+    "Specialty": "aitisalat3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Tuesday",
+    "Specialty": "aitisalat3"
+  },
+  {
+    "HallName": 18,
+    "HallTime": 2,
+    "Day": "Tuesday",
+    "Specialty": "aitisalat3"
+  },
+  {
+    "HallName": 15,
+    "HallTime": 3,
+    "Day": "Tuesday",
+    "Specialty": "aitisalat3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Tuesday",
+    "Specialty": "aitisalat3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Tuesday",
+    "Specialty": "aitisalat3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Tuesday",
+    "Specialty": "aitisalat3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Wednesday",
+    "Specialty": "aitisalat3"
+  },
+  {
+    "HallName": 10,
+    "HallTime": 2,
+    "Day": "Wednesday",
+    "Specialty": "aitisalat3"
+  },
+  {
+    "HallName": 26,
+    "HallTime": 3,
+    "Day": "Wednesday",
+    "Specialty": "aitisalat3"
+  },
+  {
+    "HallName": 2,
+    "HallTime": 4,
+    "Day": "Wednesday",
+    "Specialty": "aitisalat3"
+  },
+  {
+    "HallName": 11,
+    "HallTime": 5,
+    "Day": "Wednesday",
+    "Specialty": "aitisalat3"
+  },
+  {
+    "HallName": 11,
+    "HallTime": 6,
+    "Day": "Wednesday",
+    "Specialty": "aitisalat3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Thursday",
+    "Specialty": "aitisalat3"
+  },
+  {
+    "HallName": 23,
+    "HallTime": 2,
+    "Day": "Thursday",
+    "Specialty": "aitisalat3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Thursday",
+    "Specialty": "aitisalat3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Thursday",
+    "Specialty": "aitisalat3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Thursday",
+    "Specialty": "aitisalat3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Thursday",
+    "Specialty": "aitisalat3"
+  },
+
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Sunday",
+    "Specialty": "aitisalat4"
+  },
+  {
+    "HallName": 17,
+    "HallTime": 2,
+    "Day": "Sunday",
+    "Specialty": "aitisalat4"
+  },
+  {
+    "HallName": 24,
+    "HallTime": 3,
+    "Day": "Sunday",
+    "Specialty": "aitisalat4"
+  },
+  {
+    "HallName": 24,
+    "HallTime": 4,
+    "Day": "Sunday",
+    "Specialty": "aitisalat4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Sunday",
+    "Specialty": "aitisalat4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Sunday",
+    "Specialty": "aitisalat4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Monday",
+    "Specialty": "aitisalat4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Monday",
+    "Specialty": "aitisalat4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Monday",
+    "Specialty": "aitisalat4"
+  },
+  {
+    "HallName": 3,
+    "HallTime": 4,
+    "Day": "Monday",
+    "Specialty": "aitisalat4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Monday",
+    "Specialty": "aitisalat4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Monday",
+    "Specialty": "aitisalat4"
+  },
+  {
+    "HallName": 3,
+    "HallTime": 1,
+    "Day": "Tuesday",
+    "Specialty": "aitisalat4"
+  },
+  {
+    "HallName": 3,
+    "HallTime": 2,
+    "Day": "Tuesday",
+    "Specialty": "aitisalat4"
+  },
+  {
+    "HallName": 23,
+    "HallTime": 3,
+    "Day": "Tuesday",
+    "Specialty": "aitisalat4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Tuesday",
+    "Specialty": "aitisalat4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Tuesday",
+    "Specialty": "aitisalat4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Tuesday",
+    "Specialty": "aitisalat4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Wednesday",
+    "Specialty": "aitisalat4"
+  },
+  {
+    "HallName": 22,
+    "HallTime": 2,
+    "Day": "Wednesday",
+    "Specialty": "aitisalat4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Wednesday",
+    "Specialty": "aitisalat4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Wednesday",
+    "Specialty": "aitisalat4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Wednesday",
+    "Specialty": "aitisalat4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Wednesday",
+    "Specialty": "aitisalat4"
+  },
+  {
+    "HallName": 10,
+    "HallTime": 1,
+    "Day": "Thursday",
+    "Specialty": "aitisalat4"
+  },
+  {
+    "HallName": 10,
+    "HallTime": 2,
+    "Day": "Thursday",
+    "Specialty": "aitisalat4"
+  },
+  {
+    "HallName": 22,
+    "HallTime": 3,
+    "Day": "Thursday",
+    "Specialty": "aitisalat4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Thursday",
+    "Specialty": "aitisalat4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Thursday",
+    "Specialty": "aitisalat4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Thursday",
+    "Specialty": "aitisalat4"
+  },
+
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Sunday",
+    "Specialty": "aitisalat5"
+  },
+  {
+    "HallName": 23,
+    "HallTime": 2,
+    "Day": "Sunday",
+    "Specialty": "aitisalat5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Sunday",
+    "Specialty": "aitisalat5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Sunday",
+    "Specialty": "aitisalat5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Sunday",
+    "Specialty": "aitisalat5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Sunday",
+    "Specialty": "aitisalat5"
+  },
+  {
+    "HallName": 11,
+    "HallTime": 1,
+    "Day": "Monday",
+    "Specialty": "aitisalat5"
+  },
+  {
+    "HallName": 11,
+    "HallTime": 2,
+    "Day": "Monday",
+    "Specialty": "aitisalat5"
+  },
+  {
+    "HallName": 22,
+    "HallTime": 3,
+    "Day": "Monday",
+    "Specialty": "aitisalat5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Monday",
+    "Specialty": "aitisalat5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Monday",
+    "Specialty": "aitisalat5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Monday",
+    "Specialty": "aitisalat5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Tuesday",
+    "Specialty": "aitisalat5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Tuesday",
+    "Specialty": "aitisalat5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Tuesday",
+    "Specialty": "aitisalat5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Tuesday",
+    "Specialty": "aitisalat5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Tuesday",
+    "Specialty": "aitisalat5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Tuesday",
+    "Specialty": "aitisalat5"
+  },
+  {
+    "HallName": 13,
+    "HallTime": 1,
+    "Day": "Wednesday",
+    "Specialty": "aitisalat5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Wednesday",
+    "Specialty": "aitisalat5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Wednesday",
+    "Specialty": "aitisalat5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Wednesday",
+    "Specialty": "aitisalat5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Wednesday",
+    "Specialty": "aitisalat5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Wednesday",
+    "Specialty": "aitisalat5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Thursday",
+    "Specialty": "aitisalat5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Thursday",
+    "Specialty": "aitisalat5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Thursday",
+    "Specialty": "aitisalat5"
+  },
+  {
+    "HallName": 22,
+    "HallTime": 4,
+    "Day": "Thursday",
+    "Specialty": "aitisalat5"
+  },
+  {
+    "HallName": 22,
+    "HallTime": 5,
+    "Day": "Thursday",
+    "Specialty": "aitisalat5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Thursday",
+    "Specialty": "aitisalat5"
+  },
+
+  {
+    "HallName": 26,
+    "HallTime": 1,
+    "Day": "Sunday",
+    "Specialty": "qiada1"
+  },
+  {
+    "HallName": 26,
+    "HallTime": 2,
+    "Day": "Sunday",
+    "Specialty": "qiada1"
+  },
+  {
+    "HallName": 26,
+    "HallTime": 3,
+    "Day": "Sunday",
+    "Specialty": "qiada1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Sunday",
+    "Specialty": "qiada1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Sunday",
+    "Specialty": "qiada1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Sunday",
+    "Specialty": "qiada1"
+  },
+  {
+    "HallName": 25,
+    "HallTime": 1,
+    "Day": "Monday",
+    "Specialty": "qiada1"
+  },
+  {
+    "HallName": 25,
+    "HallTime": 2,
+    "Day": "Monday",
+    "Specialty": "qiada1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Monday",
+    "Specialty": "qiada1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Monday",
+    "Specialty": "qiada1"
+  },
+  {
+    "HallName": 10,
+    "HallTime": 5,
+    "Day": "Monday",
+    "Specialty": "qiada1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Monday",
+    "Specialty": "qiada1"
+  },
+  {
+    "HallName": 1,
+    "HallTime": 1,
+    "Day": "Tuesday",
+    "Specialty": "qiada1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Tuesday",
+    "Specialty": "qiada1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Tuesday",
+    "Specialty": "qiada1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Tuesday",
+    "Specialty": "qiada1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Tuesday",
+    "Specialty": "qiada1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Tuesday",
+    "Specialty": "qiada1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Wednesday",
+    "Specialty": "qiada1"
+  },
+  {
+    "HallName": 26,
+    "HallTime": 2,
+    "Day": "Wednesday",
+    "Specialty": "qiada1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Wednesday",
+    "Specialty": "qiada1"
+  },
+  {
+    "HallName": 23,
+    "HallTime": 4,
+    "Day": "Wednesday",
+    "Specialty": "qiada1"
+  },
+  {
+    "HallName": 23,
+    "HallTime": 5,
+    "Day": "Wednesday",
+    "Specialty": "qiada1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Wednesday",
+    "Specialty": "qiada1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Thursday",
+    "Specialty": "qiada1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Thursday",
+    "Specialty": "qiada1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Thursday",
+    "Specialty": "qiada1"
+  },
+  {
+    "HallName": 1,
+    "HallTime": 4,
+    "Day": "Thursday",
+    "Specialty": "qiada1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Thursday",
+    "Specialty": "qiada1"
+  },
+  {
+    "HallName": 17,
+    "HallTime": 6,
+    "Day": "Thursday",
+    "Specialty": "qiada1"
+  },
+
+  {
+    "HallName": 13,
+    "HallTime": 1,
+    "Day": "Sunday",
+    "Specialty": "qiada2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Sunday",
+    "Specialty": "qiada2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Sunday",
+    "Specialty": "qiada2"
+  },
+  {
+    "HallName": 18,
+    "HallTime": 4,
+    "Day": "Sunday",
+    "Specialty": "qiada2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Sunday",
+    "Specialty": "qiada2"
+  },
+  {
+    "HallName": 17,
+    "HallTime": 6,
+    "Day": "Sunday",
+    "Specialty": "qiada2"
+  },
+  {
+    "HallName": 12,
+    "HallTime": 1,
+    "Day": "Monday",
+    "Specialty": "qiada2"
+  },
+  {
+    "HallName": 12,
+    "HallTime": 2,
+    "Day": "Monday",
+    "Specialty": "qiada2"
+  },
+  {
+    "HallName": 25,
+    "HallTime": 3,
+    "Day": "Monday",
+    "Specialty": "qiada2"
+  },
+  {
+    "HallName": 2,
+    "HallTime": 4,
+    "Day": "Monday",
+    "Specialty": "qiada2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Monday",
+    "Specialty": "qiada2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Monday",
+    "Specialty": "qiada2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Tuesday",
+    "Specialty": "qiada2"
+  },
+  {
+    "HallName": 2,
+    "HallTime": 2,
+    "Day": "Tuesday",
+    "Specialty": "qiada2"
+  },
+  {
+    "HallName": 17,
+    "HallTime": 3,
+    "Day": "Tuesday",
+    "Specialty": "qiada2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Tuesday",
+    "Specialty": "qiada2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Tuesday",
+    "Specialty": "qiada2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Tuesday",
+    "Specialty": "qiada2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Wednesday",
+    "Specialty": "qiada2"
+  },
+  {
+    "HallName": 2,
+    "HallTime": 2,
+    "Day": "Wednesday",
+    "Specialty": "qiada2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Wednesday",
+    "Specialty": "qiada2"
+  },
+  {
+    "HallName": 18,
+    "HallTime": 4,
+    "Day": "Wednesday",
+    "Specialty": "qiada2"
+  },
+  {
+    "HallName": 18,
+    "HallTime": 5,
+    "Day": "Wednesday",
+    "Specialty": "qiada2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Wednesday",
+    "Specialty": "qiada2"
+  },
+  {
+    "HallName": 26,
+    "HallTime": 1,
+    "Day": "Thursday",
+    "Specialty": "qiada2"
+  },
+  {
+    "HallName": 26,
+    "HallTime": 2,
+    "Day": "Thursday",
+    "Specialty": "qiada2"
+  },
+  {
+    "HallName": 3,
+    "HallTime": 3,
+    "Day": "Thursday",
+    "Specialty": "qiada2"
+  },
+  {
+    "HallName": 20,
+    "HallTime": 4,
+    "Day": "Thursday",
+    "Specialty": "qiada2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Thursday",
+    "Specialty": "qiada2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Thursday",
+    "Specialty": "qiada2"
+  },
+
+  {
+    "HallName": 24,
+    "HallTime": 1,
+    "Day": "Sunday",
+    "Specialty": "qiada3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Sunday",
+    "Specialty": "qiada3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Sunday",
+    "Specialty": "qiada3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Sunday",
+    "Specialty": "qiada3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Sunday",
+    "Specialty": "qiada3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Sunday",
+    "Specialty": "qiada3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Monday",
+    "Specialty": "qiada3"
+  },
+  {
+    "HallName": 23,
+    "HallTime": 2,
+    "Day": "Monday",
+    "Specialty": "qiada3"
+  },
+  {
+    "HallName": 17,
+    "HallTime": 3,
+    "Day": "Monday",
+    "Specialty": "qiada3"
+  },
+  {
+    "HallName": 17,
+    "HallTime": 4,
+    "Day": "Monday",
+    "Specialty": "qiada3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Monday",
+    "Specialty": "qiada3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Monday",
+    "Specialty": "qiada3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Tuesday",
+    "Specialty": "qiada3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Tuesday",
+    "Specialty": "qiada3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Tuesday",
+    "Specialty": "qiada3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Tuesday",
+    "Specialty": "qiada3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Tuesday",
+    "Specialty": "qiada3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Tuesday",
+    "Specialty": "qiada3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Wednesday",
+    "Specialty": "qiada3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Wednesday",
+    "Specialty": "qiada3"
+  },
+  {
+    "HallName": 26,
+    "HallTime": 3,
+    "Day": "Wednesday",
+    "Specialty": "qiada3"
+  },
+  {
+    "HallName": 2,
+    "HallTime": 4,
+    "Day": "Wednesday",
+    "Specialty": "qiada3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Wednesday",
+    "Specialty": "qiada3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Wednesday",
+    "Specialty": "qiada3"
+  },
+  {
+    "HallName": 17,
+    "HallTime": 1,
+    "Day": "Thursday",
+    "Specialty": "qiada3"
+  },
+  {
+    "HallName": 17,
+    "HallTime": 2,
+    "Day": "Thursday",
+    "Specialty": "qiada3"
+  },
+  {
+    "HallName": 18,
+    "HallTime": 3,
+    "Day": "Thursday",
+    "Specialty": "qiada3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Thursday",
+    "Specialty": "qiada3"
+  },
+  {
+    "HallName": 23,
+    "HallTime": 5,
+    "Day": "Thursday",
+    "Specialty": "qiada3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Thursday",
+    "Specialty": "qiada3"
+  },
+
+  {
+    "HallName": 11,
+    "HallTime": 1,
+    "Day": "Sunday",
+    "Specialty": "qiada4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Sunday",
+    "Specialty": "qiada4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Sunday",
+    "Specialty": "qiada4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Sunday",
+    "Specialty": "qiada4"
+  },
+  {
+    "HallName": 3,
+    "HallTime": 5,
+    "Day": "Sunday",
+    "Specialty": "qiada4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Sunday",
+    "Specialty": "qiada4"
+  },
+  {
+    "HallName": 22,
+    "HallTime": 1,
+    "Day": "Monday",
+    "Specialty": "qiada4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Monday",
+    "Specialty": "qiada4"
+  },
+  {
+    "HallName": 23,
+    "HallTime": 3,
+    "Day": "Monday",
+    "Specialty": "qiada4"
+  },
+  {
+    "HallName": 10,
+    "HallTime": 4,
+    "Day": "Monday",
+    "Specialty": "qiada4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Monday",
+    "Specialty": "qiada4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Monday",
+    "Specialty": "qiada4"
+  },
+  {
+    "HallName": 17,
+    "HallTime": 1,
+    "Day": "Tuesday",
+    "Specialty": "qiada4"
+  },
+  {
+    "HallName": 17,
+    "HallTime": 2,
+    "Day": "Tuesday",
+    "Specialty": "qiada4"
+  },
+  {
+    "HallName": 21,
+    "HallTime": 3,
+    "Day": "Tuesday",
+    "Specialty": "qiada4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Tuesday",
+    "Specialty": "qiada4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Tuesday",
+    "Specialty": "qiada4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Tuesday",
+    "Specialty": "qiada4"
+  },
+  {
+    "HallName": 11,
+    "HallTime": 1,
+    "Day": "Wednesday",
+    "Specialty": "qiada4"
+  },
+  {
+    "HallName": 11,
+    "HallTime": 2,
+    "Day": "Wednesday",
+    "Specialty": "qiada4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Wednesday",
+    "Specialty": "qiada4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Wednesday",
+    "Specialty": "qiada4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Wednesday",
+    "Specialty": "qiada4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Wednesday",
+    "Specialty": "qiada4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Thursday",
+    "Specialty": "qiada4"
+  },
+  {
+    "HallName": 21,
+    "HallTime": 2,
+    "Day": "Thursday",
+    "Specialty": "qiada4"
+  },
+  {
+    "HallName": 21,
+    "HallTime": 3,
+    "Day": "Thursday",
+    "Specialty": "qiada4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Thursday",
+    "Specialty": "qiada4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Thursday",
+    "Specialty": "qiada4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Thursday",
+    "Specialty": "qiada4"
+  },
+
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Sunday",
+    "Specialty": "qiada5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Sunday",
+    "Specialty": "qiada5"
+  },
+  {
+    "HallName": 17,
+    "HallTime": 3,
+    "Day": "Sunday",
+    "Specialty": "qiada5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Sunday",
+    "Specialty": "qiada5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Sunday",
+    "Specialty": "qiada5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Sunday",
+    "Specialty": "qiada5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Monday",
+    "Specialty": "qiada5"
+  },
+  {
+    "HallName": 17,
+    "HallTime": 2,
+    "Day": "Monday",
+    "Specialty": "qiada5"
+  },
+  {
+    "HallName": 21,
+    "HallTime": 3,
+    "Day": "Monday",
+    "Specialty": "qiada5"
+  },
+  {
+    "HallName": 21,
+    "HallTime": 4,
+    "Day": "Monday",
+    "Specialty": "qiada5"
+  },
+  {
+    "HallName": 21,
+    "HallTime": 5,
+    "Day": "Monday",
+    "Specialty": "qiada5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Monday",
+    "Specialty": "qiada5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Tuesday",
+    "Specialty": "qiada5"
+  },
+  {
+    "HallName": 22,
+    "HallTime": 2,
+    "Day": "Tuesday",
+    "Specialty": "qiada5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Tuesday",
+    "Specialty": "qiada5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Tuesday",
+    "Specialty": "qiada5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Tuesday",
+    "Specialty": "qiada5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Tuesday",
+    "Specialty": "qiada5"
+  },
+  {
+    "HallName": 22,
+    "HallTime": 1,
+    "Day": "Wednesday",
+    "Specialty": "qiada5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Wednesday",
+    "Specialty": "qiada5"
+  },
+  {
+    "HallName": 11,
+    "HallTime": 3,
+    "Day": "Wednesday",
+    "Specialty": "qiada5"
+  },
+  {
+    "HallName": 11,
+    "HallTime": 4,
+    "Day": "Wednesday",
+    "Specialty": "qiada5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Wednesday",
+    "Specialty": "qiada5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Wednesday",
+    "Specialty": "qiada5"
+  },
+  {
+    "HallName": 22,
+    "HallTime": 1,
+    "Day": "Thursday",
+    "Specialty": "qiada5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Thursday",
+    "Specialty": "qiada5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Thursday",
+    "Specialty": "qiada5"
+  },
+  {
+    "HallName": 10,
+    "HallTime": 4,
+    "Day": "Thursday",
+    "Specialty": "qiada5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Thursday",
+    "Specialty": "qiada5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Thursday",
+    "Specialty": "qiada5"
+  },
+
+  {
+    "HallName": 1,
+    "HallTime": 1,
+    "Day": "Sunday",
+    "Specialty": "electricity1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Sunday",
+    "Specialty": "electricity1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Sunday",
+    "Specialty": "electricity1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Sunday",
+    "Specialty": "electricity1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Sunday",
+    "Specialty": "electricity1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Sunday",
+    "Specialty": "electricity1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Monday",
+    "Specialty": "electricity1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Monday",
+    "Specialty": "electricity1"
+  },
+  {
+    "HallName": 18,
+    "HallTime": 3,
+    "Day": "Monday",
+    "Specialty": "electricity1"
+  },
+  {
+    "HallName": 18,
+    "HallTime": 4,
+    "Day": "Monday",
+    "Specialty": "electricity1"
+  },
+  {
+    "HallName": 10,
+    "HallTime": 5,
+    "Day": "Monday",
+    "Specialty": "electricity1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Monday",
+    "Specialty": "electricity1"
+  },
+  {
+    "HallName": 20,
+    "HallTime": 1,
+    "Day": "Tuesday",
+    "Specialty": "electricity1"
+  },
+  {
+    "HallName": 20,
+    "HallTime": 2,
+    "Day": "Tuesday",
+    "Specialty": "electricity1"
+  },
+  {
+    "HallName": 1,
+    "HallTime": 3,
+    "Day": "Tuesday",
+    "Specialty": "electricity1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Tuesday",
+    "Specialty": "electricity1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Tuesday",
+    "Specialty": "electricity1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Tuesday",
+    "Specialty": "electricity1"
+  },
+  {
+    "HallName": 20,
+    "HallTime": 1,
+    "Day": "Wednesday",
+    "Specialty": "electricity1"
+  },
+  {
+    "HallName": 1,
+    "HallTime": 2,
+    "Day": "Wednesday",
+    "Specialty": "electricity1"
+  },
+  {
+    "HallName": 1,
+    "HallTime": 3,
+    "Day": "Wednesday",
+    "Specialty": "electricity1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Wednesday",
+    "Specialty": "electricity1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Wednesday",
+    "Specialty": "electricity1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Wednesday",
+    "Specialty": "electricity1"
+  },
+  {
+    "HallName": 12,
+    "HallTime": 1,
+    "Day": "Thursday",
+    "Specialty": "electricity1"
+  },
+  {
+    "HallName": 12,
+    "HallTime": 2,
+    "Day": "Thursday",
+    "Specialty": "electricity1"
+  },
+  {
+    "HallName": 1,
+    "HallTime": 3,
+    "Day": "Thursday",
+    "Specialty": "electricity1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Thursday",
+    "Specialty": "electricity1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Thursday",
+    "Specialty": "electricity1"
+  },
+  {
+    "HallName": 17,
+    "HallTime": 6,
+    "Day": "Thursday",
+    "Specialty": "electricity1"
+  },
+
+  {
+    "HallName": 18,
+    "HallTime": 1,
+    "Day": "Sunday",
+    "Specialty": "electricity2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Sunday",
+    "Specialty": "electricity2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Sunday",
+    "Specialty": "electricity2"
+  },
+  {
+    "HallName": 12,
+    "HallTime": 4,
+    "Day": "Sunday",
+    "Specialty": "electricity2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Sunday",
+    "Specialty": "electricity2"
+  },
+  {
+    "HallName": 17,
+    "HallTime": 6,
+    "Day": "Sunday",
+    "Specialty": "electricity2"
+  },
+  {
+    "HallName": 24,
+    "HallTime": 1,
+    "Day": "Monday",
+    "Specialty": "electricity2"
+  },
+  {
+    "HallName": 1,
+    "HallTime": 2,
+    "Day": "Monday",
+    "Specialty": "electricity2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Monday",
+    "Specialty": "electricity2"
+  },
+  {
+    "HallName": 1,
+    "HallTime": 4,
+    "Day": "Monday",
+    "Specialty": "electricity2"
+  },
+  {
+    "HallName": 24,
+    "HallTime": 5,
+    "Day": "Monday",
+    "Specialty": "electricity2"
+  },
+  {
+    "HallName": 24,
+    "HallTime": 6,
+    "Day": "Monday",
+    "Specialty": "electricity2"
+  },
+  {
+    "HallName": 12,
+    "HallTime": 1,
+    "Day": "Tuesday",
+    "Specialty": "electricity2"
+  },
+  {
+    "HallName": 24,
+    "HallTime": 2,
+    "Day": "Tuesday",
+    "Specialty": "electricity2"
+  },
+  {
+    "HallName": 2,
+    "HallTime": 3,
+    "Day": "Tuesday",
+    "Specialty": "electricity2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Tuesday",
+    "Specialty": "electricity2"
+  },
+  {
+    "HallName": 2,
+    "HallTime": 5,
+    "Day": "Tuesday",
+    "Specialty": "electricity2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Tuesday",
+    "Specialty": "electricity2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Wednesday",
+    "Specialty": "electricity2"
+  },
+  {
+    "HallName": 13,
+    "HallTime": 2,
+    "Day": "Wednesday",
+    "Specialty": "electricity2"
+  },
+  {
+    "HallName": 13,
+    "HallTime": 3,
+    "Day": "Wednesday",
+    "Specialty": "electricity2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Wednesday",
+    "Specialty": "electricity2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Wednesday",
+    "Specialty": "electricity2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Wednesday",
+    "Specialty": "electricity2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Thursday",
+    "Specialty": "electricity2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Thursday",
+    "Specialty": "electricity2"
+  },
+  {
+    "HallName": 25,
+    "HallTime": 3,
+    "Day": "Thursday",
+    "Specialty": "electricity2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Thursday",
+    "Specialty": "electricity2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Thursday",
+    "Specialty": "electricity2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Thursday",
+    "Specialty": "electricity2"
+  },
+
+  {
+    "HallName": 10,
+    "HallTime": 1,
+    "Day": "Sunday",
+    "Specialty": "electricity3"
+  },
+  {
+    "HallName": 11,
+    "HallTime": 2,
+    "Day": "Sunday",
+    "Specialty": "electricity3"
+  },
+  {
+    "HallName": 11,
+    "HallTime": 3,
+    "Day": "Sunday",
+    "Specialty": "electricity3"
+  },
+  {
+    "HallName": 23,
+    "HallTime": 4,
+    "Day": "Sunday",
+    "Specialty": "electricity3"
+  },
+  {
+    "HallName": 23,
+    "HallTime": 5,
+    "Day": "Sunday",
+    "Specialty": "electricity3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Sunday",
+    "Specialty": "electricity3"
+  },
+  {
+    "HallName": 18,
+    "HallTime": 1,
+    "Day": "Monday",
+    "Specialty": "electricity3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Monday",
+    "Specialty": "electricity3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Monday",
+    "Specialty": "electricity3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Monday",
+    "Specialty": "electricity3"
+  },
+  {
+    "HallName": 23,
+    "HallTime": 5,
+    "Day": "Monday",
+    "Specialty": "electricity3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Monday",
+    "Specialty": "electricity3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Tuesday",
+    "Specialty": "electricity3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Tuesday",
+    "Specialty": "electricity3"
+  },
+  {
+    "HallName": 10,
+    "HallTime": 3,
+    "Day": "Tuesday",
+    "Specialty": "electricity3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Tuesday",
+    "Specialty": "electricity3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Tuesday",
+    "Specialty": "electricity3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Tuesday",
+    "Specialty": "electricity3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Wednesday",
+    "Specialty": "electricity3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Wednesday",
+    "Specialty": "electricity3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Wednesday",
+    "Specialty": "electricity3"
+  },
+  {
+    "HallName": 15,
+    "HallTime": 4,
+    "Day": "Wednesday",
+    "Specialty": "electricity3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Wednesday",
+    "Specialty": "electricity3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Wednesday",
+    "Specialty": "electricity3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Thursday",
+    "Specialty": "electricity3"
+  },
+  {
+    "HallName": 16,
+    "HallTime": 2,
+    "Day": "Thursday",
+    "Specialty": "electricity3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Thursday",
+    "Specialty": "electricity3"
+  },
+  {
+    "HallName": 3,
+    "HallTime": 4,
+    "Day": "Thursday",
+    "Specialty": "electricity3"
+  },
+  {
+    "HallName": 24,
+    "HallTime": 5,
+    "Day": "Thursday",
+    "Specialty": "electricity3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Thursday",
+    "Specialty": "electricity3"
+  },
+
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Sunday",
+    "Specialty": "electricity4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Sunday",
+    "Specialty": "electricity4"
+  },
+  {
+    "HallName": 13,
+    "HallTime": 3,
+    "Day": "Sunday",
+    "Specialty": "electricity4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Sunday",
+    "Specialty": "electricity4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Sunday",
+    "Specialty": "electricity4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Sunday",
+    "Specialty": "electricity4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Monday",
+    "Specialty": "electricity4"
+  },
+  {
+    "HallName": 10,
+    "HallTime": 2,
+    "Day": "Monday",
+    "Specialty": "electricity4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Monday",
+    "Specialty": "electricity4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Monday",
+    "Specialty": "electricity4"
+  },
+  {
+    "HallName": 11,
+    "HallTime": 5,
+    "Day": "Monday",
+    "Specialty": "electricity4"
+  },
+  {
+    "HallName": 11,
+    "HallTime": 6,
+    "Day": "Monday",
+    "Specialty": "electricity4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Tuesday",
+    "Specialty": "electricity4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Tuesday",
+    "Specialty": "electricity4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Tuesday",
+    "Specialty": "electricity4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Tuesday",
+    "Specialty": "electricity4"
+  },
+  {
+    "HallName": 10,
+    "HallTime": 5,
+    "Day": "Tuesday",
+    "Specialty": "electricity4"
+  },
+  {
+    "HallName": 10,
+    "HallTime": 6,
+    "Day": "Tuesday",
+    "Specialty": "electricity4"
+  },
+  {
+    "HallName": 33,
+    "HallTime": 1,
+    "Day": "Wednesday",
+    "Specialty": "electricity4"
+  },
+  {
+    "HallName": 33,
+    "HallTime": 2,
+    "Day": "Wednesday",
+    "Specialty": "electricity4"
+  },
+  {
+    "HallName": 24,
+    "HallTime": 3,
+    "Day": "Wednesday",
+    "Specialty": "electricity4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Wednesday",
+    "Specialty": "electricity4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Wednesday",
+    "Specialty": "electricity4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Wednesday",
+    "Specialty": "electricity4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Thursday",
+    "Specialty": "electricity4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Thursday",
+    "Specialty": "electricity4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Thursday",
+    "Specialty": "electricity4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Thursday",
+    "Specialty": "electricity4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Thursday",
+    "Specialty": "electricity4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Thursday",
+    "Specialty": "electricity4"
+  },
+
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Sunday",
+    "Specialty": "electricity5"
+  },
+  {
+    "HallName": 33,
+    "HallTime": 2,
+    "Day": "Sunday",
+    "Specialty": "electricity5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Sunday",
+    "Specialty": "electricity5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Sunday",
+    "Specialty": "electricity5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Sunday",
+    "Specialty": "electricity5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Sunday",
+    "Specialty": "electricity5"
+  },
+  {
+    "HallName": 33,
+    "HallTime": 1,
+    "Day": "Monday",
+    "Specialty": "electricity5"
+  },
+  {
+    "HallName": 33,
+    "HallTime": 2,
+    "Day": "Monday",
+    "Specialty": "electricity5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Monday",
+    "Specialty": "electricity5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Monday",
+    "Specialty": "electricity5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Monday",
+    "Specialty": "electricity5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Monday",
+    "Specialty": "electricity5"
+  },
+  {
+    "HallName": 33,
+    "HallTime": 1,
+    "Day": "Tuesday",
+    "Specialty": "electricity5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Tuesday",
+    "Specialty": "electricity5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Tuesday",
+    "Specialty": "electricity5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Tuesday",
+    "Specialty": "electricity5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Tuesday",
+    "Specialty": "electricity5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Tuesday",
+    "Specialty": "electricity5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Wednesday",
+    "Specialty": "electricity5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Wednesday",
+    "Specialty": "electricity5"
+  },
+  {
+    "HallName": 10,
+    "HallTime": 3,
+    "Day": "Wednesday",
+    "Specialty": "electricity5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Wednesday",
+    "Specialty": "electricity5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Wednesday",
+    "Specialty": "electricity5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Wednesday",
+    "Specialty": "electricity5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Thursday",
+    "Specialty": "electricity5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Thursday",
+    "Specialty": "electricity5"
+  },
+  {
+    "HallName": 11,
+    "HallTime": 3,
+    "Day": "Thursday",
+    "Specialty": "electricity5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Thursday",
+    "Specialty": "electricity5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Thursday",
+    "Specialty": "electricity5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Thursday",
+    "Specialty": "electricity5"
+  },
+
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Sunday",
+    "Specialty": "medical4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Sunday",
+    "Specialty": "medical4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Sunday",
+    "Specialty": "medical4"
+  },
+  {
+    "HallName": 33,
+    "HallTime": 4,
+    "Day": "Sunday",
+    "Specialty": "medical4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Sunday",
+    "Specialty": "medical4"
+  },
+  {
+    "HallName": 3,
+    "HallTime": 6,
+    "Day": "Sunday",
+    "Specialty": "medical4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Monday",
+    "Specialty": "medical4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Monday",
+    "Specialty": "medical4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Monday",
+    "Specialty": "medical4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Monday",
+    "Specialty": "medical4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Monday",
+    "Specialty": "medical4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Monday",
+    "Specialty": "medical4"
+  },
+  {
+    "HallName": 33,
+    "HallTime": 1,
+    "Day": "Tuesday",
+    "Specialty": "medical4"
+  },
+  {
+    "HallName": 33,
+    "HallTime": 2,
+    "Day": "Tuesday",
+    "Specialty": "medical4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Tuesday",
+    "Specialty": "medical4"
+  },
+  {
+    "HallName": 10,
+    "HallTime": 4,
+    "Day": "Tuesday",
+    "Specialty": "medical4"
+  },
+  {
+    "HallName": 10,
+    "HallTime": 5,
+    "Day": "Tuesday",
+    "Specialty": "medical4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Tuesday",
+    "Specialty": "medical4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Wednesday",
+    "Specialty": "medical4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Wednesday",
+    "Specialty": "medical4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Wednesday",
+    "Specialty": "medical4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Wednesday",
+    "Specialty": "medical4"
+  },
+  {
+    "HallName": 33,
+    "HallTime": 5,
+    "Day": "Wednesday",
+    "Specialty": "medical4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Wednesday",
+    "Specialty": "medical4"
+  },
+  {
+    "HallName": 33,
+    "HallTime": 1,
+    "Day": "Thursday",
+    "Specialty": "medical4"
+  },
+  {
+    "HallName": 22,
+    "HallTime": 2,
+    "Day": "Thursday",
+    "Specialty": "medical4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Thursday",
+    "Specialty": "medical4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Thursday",
+    "Specialty": "medical4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Thursday",
+    "Specialty": "medical4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Thursday",
+    "Specialty": "medical4"
+  },
+
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Sunday",
+    "Specialty": "medical5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Sunday",
+    "Specialty": "medical5"
+  },
+  {
+    "HallName": 33,
+    "HallTime": 3,
+    "Day": "Sunday",
+    "Specialty": "medical5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Sunday",
+    "Specialty": "medical5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Sunday",
+    "Specialty": "medical5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Sunday",
+    "Specialty": "medical5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Monday",
+    "Specialty": "medical5"
+  },
+  {
+    "HallName": 13,
+    "HallTime": 2,
+    "Day": "Monday",
+    "Specialty": "medical5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Monday",
+    "Specialty": "medical5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Monday",
+    "Specialty": "medical5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Monday",
+    "Specialty": "medical5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Monday",
+    "Specialty": "medical5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Tuesday",
+    "Specialty": "medical5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Tuesday",
+    "Specialty": "medical5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Tuesday",
+    "Specialty": "medical5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Tuesday",
+    "Specialty": "medical5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Tuesday",
+    "Specialty": "medical5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Tuesday",
+    "Specialty": "medical5"
+  },
+  {
+    "HallName": 3,
+    "HallTime": 1,
+    "Day": "Wednesday",
+    "Specialty": "medical5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Wednesday",
+    "Specialty": "medical5"
+  },
+  {
+    "HallName": 33,
+    "HallTime": 3,
+    "Day": "Wednesday",
+    "Specialty": "medical5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Wednesday",
+    "Specialty": "medical5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Wednesday",
+    "Specialty": "medical5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Wednesday",
+    "Specialty": "medical5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Thursday",
+    "Specialty": "medical5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Thursday",
+    "Specialty": "medical5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Thursday",
+    "Specialty": "medical5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Thursday",
+    "Specialty": "medical5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Thursday",
+    "Specialty": "medical5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Thursday",
+    "Specialty": "medical5"
+  },
+
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Sunday",
+    "Specialty": "hawasib1"
+  },
+  {
+    "HallName": 25,
+    "HallTime": 2,
+    "Day": "Sunday",
+    "Specialty": "hawasib1"
+  },
+  {
+    "HallName": 25,
+    "HallTime": 3,
+    "Day": "Sunday",
+    "Specialty": "hawasib1"
+  },
+  {
+    "HallName": 2,
+    "HallTime": 4,
+    "Day": "Sunday",
+    "Specialty": "hawasib1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Sunday",
+    "Specialty": "hawasib1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Sunday",
+    "Specialty": "hawasib1"
+  },
+  {
+    "HallName": 2,
+    "HallTime": 1,
+    "Day": "Monday",
+    "Specialty": "hawasib1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Monday",
+    "Specialty": "hawasib1"
+  },
+  {
+    "HallName": 12,
+    "HallTime": 3,
+    "Day": "Monday",
+    "Specialty": "hawasib1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Monday",
+    "Specialty": "hawasib1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Monday",
+    "Specialty": "hawasib1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Monday",
+    "Specialty": "hawasib1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Tuesday",
+    "Specialty": "hawasib1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Tuesday",
+    "Specialty": "hawasib1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Tuesday",
+    "Specialty": "hawasib1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Tuesday",
+    "Specialty": "hawasib1"
+  },
+  {
+    "HallName": 17,
+    "HallTime": 5,
+    "Day": "Tuesday",
+    "Specialty": "hawasib1"
+  },
+  {
+    "HallName": 17,
+    "HallTime": 6,
+    "Day": "Tuesday",
+    "Specialty": "hawasib1"
+  },
+  {
+    "HallName": 2,
+    "HallTime": 1,
+    "Day": "Wednesday",
+    "Specialty": "hawasib1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Wednesday",
+    "Specialty": "hawasib1"
+  },
+  {
+    "HallName": 15,
+    "HallTime": 3,
+    "Day": "Wednesday",
+    "Specialty": "hawasib1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Wednesday",
+    "Specialty": "hawasib1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Wednesday",
+    "Specialty": "hawasib1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Wednesday",
+    "Specialty": "hawasib1"
+  },
+  {
+    "HallName": 15,
+    "HallTime": 1,
+    "Day": "Thursday",
+    "Specialty": "hawasib1"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Thursday",
+    "Specialty": "hawasib1"
+  },
+  {
+    "HallName": 2,
+    "HallTime": 3,
+    "Day": "Thursday",
+    "Specialty": "hawasib1"
+  },
+  {
+    "HallName": 2,
+    "HallTime": 4,
+    "Day": "Thursday",
+    "Specialty": "hawasib1"
+  },
+  {
+    "HallName": 2,
+    "HallTime": 5,
+    "Day": "Thursday",
+    "Specialty": "hawasib1"
+  },
+  {
+    "HallName": 17,
+    "HallTime": 6,
+    "Day": "Thursday",
+    "Specialty": "hawasib1"
+  },
+
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Sunday",
+    "Specialty": "hawasib2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Sunday",
+    "Specialty": "hawasib2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Sunday",
+    "Specialty": "hawasib2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Sunday",
+    "Specialty": "hawasib2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Sunday",
+    "Specialty": "hawasib2"
+  },
+  {
+    "HallName": 17,
+    "HallTime": 6,
+    "Day": "Sunday",
+    "Specialty": "hawasib2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Monday",
+    "Specialty": "hawasib2"
+  },
+  {
+    "HallName": 2,
+    "HallTime": 2,
+    "Day": "Monday",
+    "Specialty": "hawasib2"
+  },
+  {
+    "HallName": 2,
+    "HallTime": 3,
+    "Day": "Monday",
+    "Specialty": "hawasib2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Monday",
+    "Specialty": "hawasib2"
+  },
+  {
+    "HallName": 17,
+    "HallTime": 5,
+    "Day": "Monday",
+    "Specialty": "hawasib2"
+  },
+  {
+    "HallName": 17,
+    "HallTime": 6,
+    "Day": "Monday",
+    "Specialty": "hawasib2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Tuesday",
+    "Specialty": "hawasib2"
+  },
+  {
+    "HallName": 12,
+    "HallTime": 2,
+    "Day": "Tuesday",
+    "Specialty": "hawasib2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Tuesday",
+    "Specialty": "hawasib2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Tuesday",
+    "Specialty": "hawasib2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Tuesday",
+    "Specialty": "hawasib2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Tuesday",
+    "Specialty": "hawasib2"
+  },
+  {
+    "HallName": 25,
+    "HallTime": 1,
+    "Day": "Wednesday",
+    "Specialty": "hawasib2"
+  },
+  {
+    "HallName": 25,
+    "HallTime": 2,
+    "Day": "Wednesday",
+    "Specialty": "hawasib2"
+  },
+  {
+    "HallName": 20,
+    "HallTime": 3,
+    "Day": "Wednesday",
+    "Specialty": "hawasib2"
+  },
+  {
+    "HallName": 1,
+    "HallTime": 4,
+    "Day": "Wednesday",
+    "Specialty": "hawasib2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Wednesday",
+    "Specialty": "hawasib2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Wednesday",
+    "Specialty": "hawasib2"
+  },
+  {
+    "HallName": 13,
+    "HallTime": 1,
+    "Day": "Thursday",
+    "Specialty": "hawasib2"
+  },
+  {
+    "HallName": 13,
+    "HallTime": 2,
+    "Day": "Thursday",
+    "Specialty": "hawasib2"
+  },
+  {
+    "HallName": 26,
+    "HallTime": 3,
+    "Day": "Thursday",
+    "Specialty": "hawasib2"
+  },
+  {
+    "HallName": 26,
+    "HallTime": 4,
+    "Day": "Thursday",
+    "Specialty": "hawasib2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Thursday",
+    "Specialty": "hawasib2"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Thursday",
+    "Specialty": "hawasib2"
+  },
+
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Sunday",
+    "Specialty": "hawasib3"
+  },
+  {
+    "HallName": 12,
+    "HallTime": 2,
+    "Day": "Sunday",
+    "Specialty": "hawasib3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Sunday",
+    "Specialty": "hawasib3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Sunday",
+    "Specialty": "hawasib3"
+  },
+  {
+    "HallName": 20,
+    "HallTime": 5,
+    "Day": "Sunday",
+    "Specialty": "hawasib3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Sunday",
+    "Specialty": "hawasib3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Monday",
+    "Specialty": "hawasib3"
+  },
+  {
+    "HallName": 18,
+    "HallTime": 2,
+    "Day": "Monday",
+    "Specialty": "hawasib3"
+  },
+  {
+    "HallName": 13,
+    "HallTime": 3,
+    "Day": "Monday",
+    "Specialty": "hawasib3"
+  },
+  {
+    "HallName": 24,
+    "HallTime": 4,
+    "Day": "Monday",
+    "Specialty": "hawasib3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Monday",
+    "Specialty": "hawasib3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Monday",
+    "Specialty": "hawasib3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Tuesday",
+    "Specialty": "hawasib3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Tuesday",
+    "Specialty": "hawasib3"
+  },
+  {
+    "HallName": 12,
+    "HallTime": 3,
+    "Day": "Tuesday",
+    "Specialty": "hawasib3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Tuesday",
+    "Specialty": "hawasib3"
+  },
+  {
+    "HallName": 12,
+    "HallTime": 5,
+    "Day": "Tuesday",
+    "Specialty": "hawasib3"
+  },
+  {
+    "HallName": 12,
+    "HallTime": 6,
+    "Day": "Tuesday",
+    "Specialty": "hawasib3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Wednesday",
+    "Specialty": "hawasib3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Wednesday",
+    "Specialty": "hawasib3"
+  },
+  {
+    "HallName": 12,
+    "HallTime": 3,
+    "Day": "Wednesday",
+    "Specialty": "hawasib3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Wednesday",
+    "Specialty": "hawasib3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Wednesday",
+    "Specialty": "hawasib3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Wednesday",
+    "Specialty": "hawasib3"
+  },
+  {
+    "HallName": 20,
+    "HallTime": 1,
+    "Day": "Thursday",
+    "Specialty": "hawasib3"
+  },
+  {
+    "HallName": 15,
+    "HallTime": 2,
+    "Day": "Thursday",
+    "Specialty": "hawasib3"
+  },
+  {
+    "HallName": 15,
+    "HallTime": 3,
+    "Day": "Thursday",
+    "Specialty": "hawasib3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Thursday",
+    "Specialty": "hawasib3"
+  },
+  {
+    "HallName": 20,
+    "HallTime": 5,
+    "Day": "Thursday",
+    "Specialty": "hawasib3"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Thursday",
+    "Specialty": "hawasib3"
+  },
+
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Sunday",
+    "Specialty": "hawasib4"
+  },
+  {
+    "HallName": 16,
+    "HallTime": 2,
+    "Day": "Sunday",
+    "Specialty": "hawasib4"
+  },
+  {
+    "HallName": 16,
+    "HallTime": 3,
+    "Day": "Sunday",
+    "Specialty": "hawasib4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Sunday",
+    "Specialty": "hawasib4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Sunday",
+    "Specialty": "hawasib4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Sunday",
+    "Specialty": "hawasib4"
+  },
+  {
+    "HallName": 20,
+    "HallTime": 1,
+    "Day": "Monday",
+    "Specialty": "hawasib4y"
+  },
+  {
+    "HallName": 24,
+    "HallTime": 2,
+    "Day": "Monday",
+    "Specialty": "hawasib4"
+  },
+  {
+    "HallName": 10,
+    "HallTime": 3,
+    "Day": "Monday",
+    "Specialty": "hawasib4"
+  },
+  {
+    "HallName": 20,
+    "HallTime": 4,
+    "Day": "Monday",
+    "Specialty": "hawasib4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Monday",
+    "Specialty": "hawasib4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Monday",
+    "Specialty": "hawasib4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Tuesday",
+    "Specialty": "hawasib4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Tuesday",
+    "Specialty": "hawasib4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Tuesday",
+    "Specialty": "hawasib4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Tuesday",
+    "Specialty": "hawasib4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Tuesday",
+    "Specialty": "hawasib4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Tuesday",
+    "Specialty": "hawasib4"
+  },
+  {
+    "HallName": 12,
+    "HallTime": 1,
+    "Day": "Wednesday",
+    "Specialty": "hawasib4"
+  },
+  {
+    "HallName": 12,
+    "HallTime": 2,
+    "Day": "Wednesday",
+    "Specialty": "hawasib4"
+  },
+  {
+    "HallName": 21,
+    "HallTime": 3,
+    "Day": "Wednesday",
+    "Specialty": "hawasib4"
+  },
+  {
+    "HallName": 20,
+    "HallTime": 4,
+    "Day": "Wednesday",
+    "Specialty": "hawasib4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Wednesday",
+    "Specialty": "hawasib4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Wednesday",
+    "Specialty": "hawasib4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Thursday",
+    "Specialty": "hawasib4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Thursday",
+    "Specialty": "hawasib4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Thursday",
+    "Specialty": "hawasib4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Thursday",
+    "Specialty": "hawasib4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Thursday",
+    "Specialty": "hawasib4"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Thursday",
+    "Specialty": "hawasib4"
+  },
+
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Sunday",
+    "Specialty": "hawasib5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Sunday",
+    "Specialty": "hawasib5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Sunday",
+    "Specialty": "hawasib5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Sunday",
+    "Specialty": "hawasib5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Sunday",
+    "Specialty": "hawasib5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Sunday",
+    "Specialty": "hawasib5"
+  },
+  {
+    "HallName": 15,
+    "HallTime": 1,
+    "Day": "Monday",
+    "Specialty": "hawasib5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Monday",
+    "Specialty": "hawasib5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Monday",
+    "Specialty": "hawasib5"
+  },
+  {
+    "HallName": 16,
+    "HallTime": 4,
+    "Day": "Monday",
+    "Specialty": "hawasib5"
+  },
+  {
+    "HallName": 16,
+    "HallTime": 5,
+    "Day": "Monday",
+    "Specialty": "hawasib5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Monday",
+    "Specialty": "hawasib5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Tuesday",
+    "Specialty": "hawasib5"
+  },
+  {
+    "HallName": 16,
+    "HallTime": 2,
+    "Day": "Tuesday",
+    "Specialty": "hawasib5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Tuesday",
+    "Specialty": "hawasib5"
+  },
+  {
+    "HallName": 3,
+    "HallTime": 4,
+    "Day": "Tuesday",
+    "Specialty": "hawasib5"
+  },
+  {
+    "HallName": 3,
+    "HallTime": 5,
+    "Day": "Tuesday",
+    "Specialty": "hawasib5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Tuesday",
+    "Specialty": "hawasib5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Wednesday",
+    "Specialty": "hawasib5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Wednesday",
+    "Specialty": "hawasib5"
+  },
+  {
+    "HallName": 18,
+    "HallTime": 3,
+    "Day": "Wednesday",
+    "Specialty": "hawasib5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 4,
+    "Day": "Wednesday",
+    "Specialty": "hawasib5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Wednesday",
+    "Specialty": "hawasib5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Wednesday",
+    "Specialty": "hawasib5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 1,
+    "Day": "Thursday",
+    "Specialty": "hawasib5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 2,
+    "Day": "Thursday",
+    "Specialty": "hawasib5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 3,
+    "Day": "Thursday",
+    "Specialty": "hawasib5"
+  },
+  {
+    "HallName": 24,
+    "HallTime": 4,
+    "Day": "Thursday",
+    "Specialty": "hawasib5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 5,
+    "Day": "Thursday",
+    "Specialty": "hawasib5"
+  },
+  {
+    "HallName": 0,
+    "HallTime": 6,
+    "Day": "Thursday",
+    "Specialty": "hawasib5"
+  }
+]
